@@ -13,7 +13,7 @@ gem install lolcat
 echo -e "\e[1;34m[*] \e[4mexporting apktool_version=2.4.1" |
 echo
 echo -e "\e[96m-------++++wait for downloading++++------- \e[95m"
-echo -e "\e[8m"
+
 export apktool_version=2.4.1
 sudo -E sh -c 'wget https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_$apktool_version.jar -O /usr/local/bin/apktool.jar'
 echo

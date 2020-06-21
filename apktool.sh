@@ -1,6 +1,6 @@
 #!/system/bin/sh
 echo -e "\e[36m************-----------++++---------************"
-echo -e "\e[1;34m [✓] \e[35mm \e[1m ---  Apktool \e[91m version-2.4.1 \e[0m"
+echo -e "\e[1;34m [✓] \e[35m \e[1m ---  Apktool \e[91m version-2.4.1 \e[0m"
 
 echo -e " \e[36m \e[1m     ---  by \e[1;34m Raj Aryan \e[0m"
 
@@ -8,6 +8,7 @@ echo -e "\e[32m \e[1m      ---  @h4ck3r0 \e[33m"
 echo "************-----------++++---------************"
 echo -e " \e[1;34m[*] \e[32m Installing packages....\e[96m"
 sudo apt install ruby
+sudo apt install wget
 gem install lolcat
 echo -e "\e[1;34m[*] \e[4mexporting apktool_version=2.4.1" |
 echo

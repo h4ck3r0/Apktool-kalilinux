@@ -1,4 +1,4 @@
-# apktool-termux
+# apktool-kalilinux
 Latest apktool 2.4.1 for kali linux by H4Ck34
 
 # installation

@@ -1,5 +1,5 @@
 # apktool-kalilinux
-Latest apktool 2.4.1 for kali linux by H4Ck34
+Latest apktool 2.5.0 for kali linux by H4Ck3R
 
 # installation
 git clone https://github.com/h4cker0/apktool-kalilinux

@@ -10,11 +10,11 @@ echo -e " \e[1;34m[*] \e[32m Installing packages....\e[96m"
 
 sudo apt install wget
 
-echo -e "\e[1;34m[*] \e[4mexporting apktool_version=2.4.1" 
+echo -e "\e[1;34m[*] \e[4mexporting apktool_version=2.5.0" 
 echo
 echo -e "\e[96m-------++++wait for downloading++++------- \e[95m"
 
-export apktool_version=2.4.1
+export apktool_version=2.5.0
 sudo -E sh -c 'wget https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_$apktool_version.jar -O /usr/local/bin/apktool.jar'
 echo
 echo -e "\e[1;34m[+] \e[32mplease be patient \e[34m"

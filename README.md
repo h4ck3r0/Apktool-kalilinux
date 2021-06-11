@@ -11,4 +11,4 @@ chmod +x apktool.sh
 bash apktool.sh
 
 # credit
-Script by H4Ck34 (Raj Aryan)
+Script by H4Ck3R (Raj Aryan)

@@ -1,6 +1,6 @@
 #!/system/bin/sh
 echo -e "\e[36m************-----------++++---------************"
-echo -e "\e[1;34m [✓] \e[35m \e[1m ---  Apktool \e[91m version-2.5.0 \e[0m"
+echo -e "\e[1;34m [✓] \e[35m \e[1m ---  Apktool \e[91m version-2.6.0 \e[0m"
 
 echo -e " \e[36m \e[1m     ---  by \e[1;34m Raj Aryan \e[0m"
 
@@ -10,7 +10,7 @@ echo -e " \e[1;34m[*] \e[32m Installing packages....\e[96m"
 
 sudo apt install wget
 
-echo -e "\e[1;34m[*] \e[4mexporting apktool_version=2.5.0" 
+echo -e "\e[1;34m[*] \e[4mexporting apktool_version=2.6.0" 
 echo
 echo -e "\e[96m-------++++wait for downloading++++------- \e[95m"
 

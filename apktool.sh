@@ -14,7 +14,7 @@ echo -e "\e[1;34m[*] \e[4mexporting apktool_version=2.6.1"
 echo
 echo -e "\e[96m-------++++wait for downloading++++------- \e[95m"
 
-export apktool_version=2.6.1
+export apktool_version=2.7.0
 sudo -E sh -c 'wget https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_$apktool_version.jar -O /usr/local/bin/apktool.jar'
 echo
 echo -e "\e[1;34m[+] \e[32mplease be patient \e[34m"

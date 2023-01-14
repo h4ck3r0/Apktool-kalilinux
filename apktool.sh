@@ -36,7 +36,7 @@ clear
 echo -e "\e[1m-----------------🅻🅸🅺🅴 🅰🅽🅳 🆂🆄🅱🆂🅲🆁🅸🅱🅴 🆄🆂------------------" 
 
 echo -e "\e[96m+--------------------------------------*\e[0m"
-echo -e "\e[1;96m Raj Aryan : \e[1;95m Apktool Version2.6.1"
+echo -e "\e[1;96m Raj Aryan : \e[1;95m Apktool Version2.7.0"
 echo -e "\e[1;91m Type Apktool to run\e[0m"
 echo    " Apktool v2.6.1 - a tool for reengineering Android apk files"
 

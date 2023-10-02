@@ -1,6 +1,6 @@
 #!/system/bin/sh
 echo -e "\e[36m************-----------++++---------************"
-echo -e "\e[1;34m [✓] \e[35m \e[1m ---  Apktool \e[91m version-2.6.1 \e[0m"
+echo -e "\e[1;34m [✓] \e[35m \e[1m ---  Apktool \e[91m version-2.8.1 \e[0m"
 
 echo -e " \e[36m \e[1m     ---  by \e[1;34m Raj Aryan \e[0m"
 

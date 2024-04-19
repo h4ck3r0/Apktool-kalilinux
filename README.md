@@ -1,6 +1,6 @@
 # Apktool-kalilinux
 
-`Latest apktool 2.8.1 for kali linux by H4Ck3R`
+`Latest apktool 2.9.3 for kali linux by H4Ck3R`
 
 # Installation
 

@@ -10,11 +10,11 @@ echo -e " \e[1;34m[*] \e[32m Installing packages....\e[96m"
 
 sudo apt install wget
 
-echo -e "\e[1;34m[*] \e[4mexporting apktool_version=2.7.0" 
+echo -e "\e[1;34m[*] \e[4mexporting apktool_version=2.9.3" 
 echo
 echo -e "\e[96m-------++++wait for downloading++++------- \e[95m"
 
-export apktool_version=2.8.1
+export apktool_version=2.9.3
 sudo -E sh -c 'wget https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_$apktool_version.jar -O /usr/local/bin/apktool.jar'
 echo
 echo -e "\e[1;34m[+] \e[32mplease be patient \e[34m"
@@ -36,7 +36,7 @@ clear
 echo -e "\e[1m-----------------🅻🅸🅺🅴 🅰🅽🅳 🆂🆄🅱🆂🅲🆁🅸🅱🅴 🆄🆂------------------" 
 
 echo -e "\e[96m+--------------------------------------*\e[0m"
-echo -e "\e[1;96m Raj Aryan : \e[1;95m Apktool Version2.7.0"
+echo -e "\e[1;96m Raj Aryan : \e[1;95m Apktool Version2.9.3"
 echo -e "\e[1;91m Type Apktool to run\e[0m"
 echo    " Apktool v2.8.1 - a tool for reengineering Android apk files"
 
